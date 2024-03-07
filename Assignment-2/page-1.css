@@ -1,0 +1,46 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.page-1-CQX {
+  box-sizing: border-box;
+  padding: 30.6rem 64.3rem 42.4rem 49.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0e4d92;
+}
+.page-1-CQX .genetic-data-svgrepo-com-1-1-Usq {
+  margin: 0rem 2.1rem 3.1rem 0rem;
+  width: 18.7rem;
+  height: 17.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.page-1-CQX .figma-virtual-laboratory-aR5 {
+  max-width: 30rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

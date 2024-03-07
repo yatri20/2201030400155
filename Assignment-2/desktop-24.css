@@ -1,0 +1,787 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-24-F6X {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-24-F6X .desktop-17-NS3 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR {
+  width: 100%;
+  height: 82.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .image-2-Mom {
+  width: 144rem;
+  height: 76.4rem;
+  position: absolute;
+  left: 0;
+  top: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-38-Tro {
+  width: 144rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e2d8a8;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .physics-1NX {
+  width: 13.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .account-6um {
+  width: 12rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 131.1rem;
+  top: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .q-a-PP5 {
+  width: 4.2rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 33.3rem;
+  top: 3rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .about-6YP {
+  width: 8.3rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 46.5rem;
+  top: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .line-3-Qoy {
+  width: 11.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17rem;
+  top: 5rem;
+  background-color: #ffffff;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .ellipse-8-MDR {
+  width: 12.8rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .physics-svgrepo-com-1-6go {
+  width: 9.6rem;
+  height: 7.6921rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 2.7539rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-55-bdZ {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 70rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-54-41M {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 64rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-47-JRV {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 22rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-53-nrT {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 58rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-52-UUP {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 52rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-51-P5Z {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 46rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-50-HAw {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 40rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-49-8BZ {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 34rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-48-BvX {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 28rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .rectangle-46-Uud {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 16rem;
+  border: solid 0.1rem #1e6a8f;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(224, 244, 215, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .youngs-double-slit-experiment-A1m {
+  width: 30.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 17.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .measurement-of-magnetic-field-exX {
+  width: 30.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 23.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .verification-of-ohms-law-ZZh {
+  width: 24.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 29.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .determination-of-focal-length-of-a-lens-dJf {
+  width: 38.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 34.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .study-of-lenzs-law-Jvb {
+  width: 19.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 41.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .measurement-of-plancks-constant-CFH {
+  width: 33.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 48rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .verification-of-boyles-law-W15 {
+  width: 25.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 53.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .projectile-motion-experiment-1iX {
+  width: 27.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 59rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .resonance-tube-experiment-XRy {
+  width: 27.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 65.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-ulns-GXR .specific-heat-capacity-measurement-qBm {
+  width: 35.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 9rem;
+  top: 71.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e6a8f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh {
+  box-sizing: border-box;
+  padding: 1.5rem 15.2rem 1.5rem 5rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-drdh-zTy {
+  margin: 3.8rem 0.4rem 2.4rem 0rem;
+  height: calc(100% - 6.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-drdh-zTy .instagram-color-svgrepo-com-1-hNP {
+  margin: 0rem 1rem 1.1rem 0rem;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.4rem 0.2rem rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-drdh-zTy .instagram-color-svgrepo-com-1-hNP .instagram-E7R {
+  width: 2.6rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-drdh-zTy .facebook-svgrepo-com-1-UnT {
+  margin: 0rem 0rem 0.9rem 0.2rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-drdh-zTy .youtube-svgrepo-com-1-9tb {
+  width: 3.6rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 {
+  margin: 3.7rem 7.9rem 2.4rem 0rem;
+  width: 11.4rem;
+  height: calc(100% - 6.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-cjqv-D7m {
+  width: 100%;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-cjqv-D7m .instagram-Mzf {
+  width: 11.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-cjqv-D7m .instagram-H7d {
+  width: 11.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-mrs1-nib {
+  margin-bottom: 0.9rem;
+  width: 11.2rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-mrs1-nib .facebook-uYK {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-mrs1-nib .facebook-p9V {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-o2fh-XJo {
+  width: 9.4rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-o2fh-XJo .youtube-rby {
+  width: 9.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-etzy-639 .auto-group-6xv3-sbd .auto-group-o2fh-XJo .youtube-Acf {
+  width: 9.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-sykm-5jd {
+  margin: 3.2rem 0.2rem 1.9rem 0rem;
+  height: calc(100% - 5.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-sykm-5jd .auto-group-6aa3-awH {
+  margin: 0rem 0.4rem 0.8rem 0rem;
+  width: 3.8rem;
+  height: 3.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-sykm-5jd .auto-group-hjsw-uCs {
+  margin: 0rem 0.5rem 0.9rem 0rem;
+  width: 2.9rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-sykm-5jd .auto-group-wtaj-Ptj {
+  margin-left: 0.4rem;
+  width: 3.8rem;
+  height: 3.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP {
+  margin: 3.7rem 31.3rem 2.4rem 0rem;
+  height: calc(100% - 6.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-drr5-cmV {
+  margin: 0rem 0rem 1rem 0.5rem;
+  width: 9.5rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-drr5-cmV .linkedin-Kvo {
+  width: 9.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-drr5-cmV .linkedin-qu9 {
+  width: 9.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-iczj-ARd {
+  margin: 0rem 0rem 0.9rem 0.5rem;
+  width: 7.5rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-iczj-ARd .g-mail-Vio {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-iczj-ARd .g-mail-CNK {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-5mh9-hZy {
+  width: 8rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-5mh9-hZy .twitter-S1m {
+  width: 8rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-facf-KnP .auto-group-5mh9-hZy .twitter-xko {
+  width: 8rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-g3kt-54j {
+  margin: 0rem 6.203rem 16.9rem 0rem;
+  width: 0.0966rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pavv-Pr7 {
+  margin: 3.2rem 0rem 7.4rem 0rem;
+  height: calc(100% - 10.6rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pavv-Pr7 .auto-group-76ij-vLF {
+  margin: 0rem 0.8rem 1.3rem 0rem;
+  width: 3rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pavv-Pr7 .auto-group-zrxo-DaF {
+  width: 2.8rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD {
+  margin: 3.4rem 0rem 2.6rem 0rem;
+  width: 44.7rem;
+  height: calc(100% - 6rem);
+  flex-shrink: 0;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-i89d-Hq1 {
+  margin-bottom: 1.2rem;
+  width: 16.6rem;
+  height: 2.5rem;
+  position: relative;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-i89d-Hq1 .item-91-9876556789-EkF {
+  width: 16.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-i89d-Hq1 .item-91-9876556789-MK5 {
+  width: 16.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-nudv-D6P {
+  width: 100%;
+  height: 7.3rem;
+  position: relative;
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-nudv-D6P .a-405-sai-ratnam-cabin-rd-bhayander-east-mumbai-maharashtra-401105-india-YeT {
+  width: 44.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-24-F6X .desktop-17-NS3 .auto-group-w9nf-Woh .auto-group-pc15-ZPD .auto-group-nudv-D6P .a-405-sai-ratnam-cabin-rd-bhayander-east-mumbai-maharashtra-401105-india-pM5 {
+  width: 44.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}

@@ -1,0 +1,738 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-22-z15 {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-22-z15 .biology-VyR {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-22-z15 .biology-VyR .image-3-ZiP {
+  width: 144rem;
+  height: 96.1rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .rectangle-34-Fr7 {
+  width: 144rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ade16b;
+}
+.desktop-22-z15 .biology-VyR .biology-BDy {
+  width: 13.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .account-sMh {
+  width: 12.6rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 131.4rem;
+  top: 2.1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .q-a-yfd {
+  width: 4.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 3rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .about-Gej {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 46.5rem;
+  top: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .line-3-Nxf {
+  width: 10.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17rem;
+  top: 5rem;
+  background-color: #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.desktop-22-z15 .biology-VyR .ellipse-8-tAK {
+  width: 12.8rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .cells-cell-svgrepo-com-1-QeT {
+  width: 7.1131rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 3.1935rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .rectangle-35-XDH {
+  width: 144rem;
+  height: 20.1rem;
+  position: absolute;
+  left: 0;
+  top: 82.3rem;
+  background-color: #d9d9d9;
+}
+.desktop-22-z15 .biology-VyR .twitter-ENb {
+  width: 8rem;
+  height: 3rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 95.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .instagram-WL7 {
+  width: 11.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 87.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .facebook-o4K {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 91.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .youtube-VC3 {
+  width: 9.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 95.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .g-mail-QZu {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 33.2rem;
+  top: 91.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .linkedin-v2T {
+  width: 9.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 33.2rem;
+  top: 87.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .facebook-svgrepo-com-1-CVm {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 91.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .twitter-1-svgrepo-com-1-8PR {
+  width: 3.325rem;
+  height: 2.7313rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 95.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .linkedin-svgrepo-com-1-TRh {
+  width: 2.85rem;
+  height: 2.85rem;
+  position: absolute;
+  left: 28.775rem;
+  top: 87.575rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .youtube-svgrepo-com-1-BsV {
+  width: 3.15rem;
+  height: 2.0783rem;
+  position: absolute;
+  left: 5.225rem;
+  top: 95.7609rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .gmail-icon-logo-svgrepo-com-1-gpF {
+  width: 2.9rem;
+  height: 1.8811rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 92.0595rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .line-2-D3V {
+  width: 0.0966rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 74rem;
+  top: 83.9rem;
+  background-color: #ffffff;
+}
+.desktop-22-z15 .biology-VyR .item-91-9876556789-jnX {
+  width: 16.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 87.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .a-405-sai-ratnam-cabin-rd-bhayander-east-mumbai-maharashtra-401105-india-EUP {
+  width: 44.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 91rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-22-z15 .biology-VyR .location-pin-svgrepo-com-1-fZh {
+  width: 2.1rem;
+  height: 2.4999rem;
+  position: absolute;
+  left: 81.3rem;
+  top: 91rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .call-receive-svgrepo-com-1-Xbu {
+  width: 2.6006rem;
+  height: 2.2539rem;
+  position: absolute;
+  left: 80.5109rem;
+  top: 87.2634rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .twitter-FXu {
+  width: 8rem;
+  height: 3rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 95.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .instagram-N6j {
+  width: 11.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 87.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .facebook-GT1 {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 91.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .youtube-PGj {
+  width: 9.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 95.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .g-mail-J8o {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 33.2rem;
+  top: 91.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .linkedin-E2T {
+  width: 9.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 33.2rem;
+  top: 87.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .twitter-1-svgrepo-com-2-wxT {
+  width: 3.325rem;
+  height: 2.7313rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 95.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .linkedin-svgrepo-com-2-sr7 {
+  width: 2.85rem;
+  height: 2.85rem;
+  position: absolute;
+  left: 28.775rem;
+  top: 87.575rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .gmail-icon-logo-svgrepo-com-2-ojm {
+  width: 2.9rem;
+  height: 1.8811rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 92.0595rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .line-4-6Ty {
+  width: 0.0966rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 74rem;
+  top: 83.9rem;
+  background-color: #ffffff;
+}
+.desktop-22-z15 .biology-VyR .item-91-9876556789-dTu {
+  width: 16.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 87.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .a-405-sai-ratnam-cabin-rd-bhayander-east-mumbai-maharashtra-401105-india-8vT {
+  width: 44.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 91rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-22-z15 .biology-VyR .location-pin-svgrepo-com-2-NZu {
+  width: 2.1rem;
+  height: 2.4999rem;
+  position: absolute;
+  left: 81.3rem;
+  top: 91rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .call-receive-svgrepo-com-2-gKh {
+  width: 2.6006rem;
+  height: 2.2539rem;
+  position: absolute;
+  left: 80.5109rem;
+  top: 87.2634rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .instagram-color-svgrepo-com-1-zbH {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 87.7rem;
+  overflow: hidden;
+}
+.desktop-22-z15 .biology-VyR .instagram-color-svgrepo-com-1-zbH .instagram-8Bh {
+  width: 2.6rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-22-z15 .biology-VyR .rectangle-46-sf5 {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 16.7rem;
+  border: solid 0.1rem rgba(222, 212, 123, 0.200000003);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .rectangle-56-WT9 {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 22.7rem;
+  border: solid 0.1rem rgba(222, 212, 123, 0.200000003);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .rectangle-48-C55 {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 28.7rem;
+  border: solid 0.1rem rgba(222, 212, 123, 0.200000003);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .dna-extraction-Fp3 {
+  width: 14.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 30.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-49-pEs {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 34.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .study-of-osmosis-in-plant-cells-Sn3 {
+  width: 28.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 36.1rem;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-50-k23 {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 40.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .respiration-rate-measurement-qpB {
+  width: 28.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 42.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-51-JSs {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 46.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .photosynthesis-experiment-zKh {
+  width: 25.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 48.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-52-sPV {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 52.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .microbial-growth-and-antibiotics-kiB {
+  width: 30.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 54.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-53-4Ty {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 58.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .study-of-human-physiology-6fZ {
+  width: 25.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 60.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-54-zkw {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 64.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .ecological-sampling-ro9 {
+  width: 18.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 66.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .rectangle-55-o67 {
+  width: 130.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 70.7rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(253, 245, 218, 0.3000000119);
+  border-radius: 1rem;
+}
+.desktop-22-z15 .biology-VyR .genetic-crosses-and-inheritance-423 {
+  width: 30.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 72.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .microscopic-observation-of-cells-kvT {
+  width: 30.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 9rem;
+  top: 18.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-22-z15 .biology-VyR .enzyme-activity-investigation-fXd {
+  width: 27.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 9rem;
+  top: 24.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ded47b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
